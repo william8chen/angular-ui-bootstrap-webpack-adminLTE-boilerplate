@@ -1,1 +1,2 @@
-# angular-ui-bootstrap-webpack-adminLTE-boilerplate
+# angular-ui-webpack-boilerplate
+angular-ui , bootstrap, webpack, gulp
